@@ -1,0 +1,1 @@
+select Learners.StudentName, Learners.City FROM Students AS Learners;

@@ -1,0 +1,1 @@
+SELECT PostalCose AS Zip FROM Students;
